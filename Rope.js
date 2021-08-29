@@ -1,0 +1,11 @@
+class Rope {
+  constructor() {
+    
+  }
+  
+
+  display() {
+    
+  }
+
+}
